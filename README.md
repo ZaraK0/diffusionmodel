@@ -1,4 +1,4 @@
-# Diffusion-Model-Tutorial
+# Diffusion-Model
 How diffusion models work
 
 The content are from the deeplearning.ai course called `How Diffusion Models Work`. The concepts that are discussed in the notebooks are:
